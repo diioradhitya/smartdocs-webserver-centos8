@@ -115,9 +115,6 @@ case $1 in
                 status
         ;;
         kill) 
-Teknowmics 
-Page 34  
-SmartDocs6 - Environment Setup Guide 
                 terminate
         ;;
         *)
